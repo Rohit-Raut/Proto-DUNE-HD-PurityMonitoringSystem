@@ -1,6 +1,6 @@
 # Proto-DUNE-HD Purity Monitoring System
 
-Welcome to the **Proto-DUNE-HD Purity Monitoring System** repository! This project focuses on analyzing ADC signals, calculating integrals, and monitoring purity within the Proto-DUNE-HD experimental framework. The tools and scripts in this repository are essential for high-energy physics data analysis and purity monitoring.
+Welcome to the **Proto-DUNE-HD Purity Monitoring System** repository! This project focuses on analyzing ADC signals, calculating integrals, and monitoring purity within the Proto-DUNE-HD experimental framework. This tool was used for extracting the data from Proto-DUNE HD detector, cleaning the cosmic backgrounds, and analyzing the Bismuth Source.
 
 This repository represents a collaborative effort between **CERN** and the **University of Texas at Arlington**.
 
