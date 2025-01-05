@@ -1,3 +1,22 @@
 #!/bin/bash
+# Jobscript to process HDF5 files using test2.py
 
+# Load necessary environment modules
+source /cvmfs/dune.opensciencegrid.org/products/dune/setup_dune.sh
+setup python 3.8  # Adjust the Python version as needed
+setup justin       # Ensure Justin is set up
 
+# Activate any virtual environment if required
+# source /path/to/your/venv/bin/activate
+
+# Navigate to the working directory
+cd $JUSTIN_WORKDIR
+
+# Ensure the Python script is executable
+chmod +x test2.py
+
+# Run the Python script with the input file
+python test2.py "$JUSTIN_INPUT_FILE"
+
+# Handle output
+# Justin uses the --output-pattern to collect output files, so ensure your script writes outputs accordingly
