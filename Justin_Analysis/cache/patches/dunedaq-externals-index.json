@@ -1,0 +1,500 @@
+{
+  "patches": {
+    "cfd4e6e1e9747def96adeae0075994a03a10e1bfb471900ecb52b7839afa9ca2": {
+      "dunedaq-externals.boost": {
+        "owner": "dunedaq-externals.boost",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "boost_11856.patch"
+      }
+    },
+    "2ab6c72d03dec6a4ae20220a9dfd5c8c572c5294252155b85c6874d97c323199": {
+      "dunedaq-externals.boost": {
+        "owner": "dunedaq-externals.boost",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "python_jam.patch"
+      }
+    },
+    "f994ac84634f2f833a7a4d3179c5bf9a06f14349ef67aacba39d08837ffab004": {
+      "dunedaq-externals.boost": {
+        "owner": "dunedaq-externals.boost",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "python_jam_pre156.patch"
+      }
+    },
+    "fd64b4f1e9c136549c7b704bd0014283e1515de8b68e54f0dd0cde758866eb69": {
+      "dunedaq-externals.boost": {
+        "owner": "dunedaq-externals.boost",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "xl_1_62_0_le.patch"
+      }
+    },
+    "4f2b06f77ad5e485e9debb769199414b2d6ebc0784aa1a8e28c1144fa971e155": {
+      "dunedaq-externals.boost": {
+        "owner": "dunedaq-externals.boost",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "call_once_variadic.patch"
+      }
+    },
+    "6f8119bbbf80a23aecefffe4cb230b8383fb25e21a589eec74275e3efe487d0d": {
+      "dunedaq-externals.boost": {
+        "owner": "dunedaq-externals.boost",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "boost_1.67.0_pgi.patch"
+      }
+    },
+    "a2f8809e36835080bfa9e69ee8260662858b8d5b1c1c10cdf0ab7e0a381ae872": {
+      "dunedaq-externals.boost": {
+        "owner": "dunedaq-externals.boost",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "boost_1.63.0_pgi.patch"
+      }
+    },
+    "f59e6ce697fea69256d597ec624f8c47b5e35f743fa6d91207cf8933737911dd": {
+      "dunedaq-externals.boost": {
+        "owner": "dunedaq-externals.boost",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "boost_1.63.0_pgi_17.4_workaround.patch"
+      }
+    },
+    "d56f31f2a3956630e5372b987d39cb79b5d2c71760fa150b8eb4a3f1a07e2658": {
+      "dunedaq-externals.boost": {
+        "owner": "dunedaq-externals.boost",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "nvhpc-1.74.patch"
+      }
+    },
+    "cba819a80b2e9449e11b43f4ab3c6d6097aa37d42925d4d64d0a9ba8e047d9e8": {
+      "dunedaq-externals.boost": {
+        "owner": "dunedaq-externals.boost",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "nvhpc-1.76.patch"
+      }
+    },
+    "938811004ff77783a82d59c8ebf2582a40db88de89fb0a078351e52e9e0aa704": {
+      "dunedaq-externals.boost": {
+        "owner": "dunedaq-externals.boost",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "nvhpc-find_address.patch"
+      }
+    },
+    "95f5420d8ed34f60e3f88b38a4a5e8a032c94dc57b85cc2ab8243dd0d754a626": {
+      "dunedaq-externals.boost": {
+        "owner": "dunedaq-externals.boost",
+        "level": 0,
+        "working_dir": ".",
+        "relative_path": "darwin_clang_version.patch"
+      }
+    },
+    "e13cca1cfad7dcce9ed3d4ef989c14e464c4ea00caaf335f762e3677b35cab61": {
+      "dunedaq-externals.boost": {
+        "owner": "dunedaq-externals.boost",
+        "level": 2,
+        "working_dir": ".",
+        "relative_path": "1.72_boost_process.patch"
+      }
+    },
+    "57a8401dee8f52b0342e0c8147a5b2db834e8d8f3fbcbbc5950016bd3e9e1ef0": {
+      "dunedaq-externals.boost": {
+        "owner": "dunedaq-externals.boost",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "bootstrap-path.patch"
+      }
+    },
+    "3a83d907043708218325c35ffc318fd6d6cfd78ba89a78f2c70013c72603e5b8": {
+      "dunedaq-externals.boost": {
+        "owner": "dunedaq-externals.boost",
+        "level": 2,
+        "working_dir": ".",
+        "relative_path": "system-non-virtual-dtor-include.patch"
+      }
+    },
+    "607b0772dec1287c9084ae3b36ee32bff945a2fe5e608823ed47a1ea765c84cd": {
+      "dunedaq-externals.boost": {
+        "owner": "dunedaq-externals.boost",
+        "level": 1,
+        "working_dir": "libs/system",
+        "relative_path": "system-non-virtual-dtor-test.patch"
+      }
+    },
+    "34233f0a408ce9b1bb49b548086ef7f2caffc1eece52976d47ffb7cab4fee802": {
+      "dunedaq-externals.boost": {
+        "owner": "dunedaq-externals.boost",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "fujitsu_version_analysis.patch"
+      }
+    },
+    "d1cd178ea5348fafbba797113fc5a92cc822f3606dc2fe65c14cc2275334001b": {
+      "dunedaq-externals.boost": {
+        "owner": "dunedaq-externals.boost",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "clang-linux_add_option.patch"
+      }
+    },
+    "4f0f7c0c0711e330aa077e2a1a989f68cbdcf7a3d20f85db872f3c34fce278e1": {
+      "dunedaq-externals.boost": {
+        "owner": "dunedaq-externals.boost",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "clang-linux_add_option2.patch"
+      }
+    },
+    "4dd507e1f5a29e3b87b15321a4d8c74afdc8331433edabf7aeab89b3c405d556": {
+      "dunedaq-externals.boost": {
+        "owner": "dunedaq-externals.boost",
+        "level": 1,
+        "working_dir": ".",
+        "url": "https://www.boost.org/patches/1_73_0/0002-beast-coroutines.patch"
+      }
+    },
+    "246508e052c44b6f4e8c2542a71c06cacaa72cd1447ab8d2a542b987bc35ace9": {
+      "dunedaq-externals.boost": {
+        "owner": "dunedaq-externals.boost",
+        "level": 1,
+        "working_dir": ".",
+        "url": "https://www.boost.org/patches/1_73_0/0001-outcome-assert.patch"
+      }
+    },
+    "fb7d84358c36309062fa4aaaa187343eb16871bd95893f0270e0941955c488ab": {
+      "dunedaq-externals.boost": {
+        "owner": "dunedaq-externals.boost",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "boost_154.patch"
+      }
+    },
+    "7f95f95be9645eb7f10a7222173c8549501aebbe1db12b955442a7554dc59f3e": {
+      "dunedaq-externals.boost": {
+        "owner": "dunedaq-externals.boost",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "boost_218.patch"
+      }
+    },
+    "f2409bfa0e69e44817a5f8799e25c2e9e5ee50876a5aaacefd32fa647b80472f": {
+      "dunedaq-externals.boost": {
+        "owner": "dunedaq-externals.boost",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "bootstrap-toolset.patch"
+      }
+    },
+    "6edc1de3dcb931939a875796207057c00708525d86926b588ba55f65c18dc611": {
+      "dunedaq-externals.boost": {
+        "owner": "dunedaq-externals.boost",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "context-macho-gcc.patch"
+      }
+    },
+    "3b159d65a0d3d2df2a21c6bf56ffaba943fce92d2d41d628b2c4d2e924e0f421": {
+      "dunedaq-externals.boost": {
+        "owner": "dunedaq-externals.boost",
+        "level": 2,
+        "working_dir": ".",
+        "url": "https://github.com/boostorg/config/commit/fee1ad07968386b6d547f089311b7a2c1bf7fa55.patch"
+      }
+    },
+    "2a98608800104b5bb47660725e7911826d7531815399fc87e79c0dee376ac284": {
+      "dunedaq-externals.cetlib": {
+        "owner": "dunedaq-externals.cetlib",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "cetlib-notests.patch"
+      }
+    },
+    "2068c7a4b4e442fe53db1248352ffee45602737f223535a56f125a56037eaa60": {
+      "dunedaq-externals.cetlib": {
+        "owner": "dunedaq-externals.cetlib",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "cetlib-3.15.00.patch"
+      }
+    },
+    "679a2682581d6430455c7acfdfae8331763909828c53e23b88ea7ce1c1612fe4": {
+      "dunedaq-externals.cetlib": {
+        "owner": "dunedaq-externals.cetlib",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "cetlib_openssl_spack.patch"
+      }
+    },
+    "5bd120fb5d9a4e7b3cfe4755296099637e40d55357c8d5dff20e7aa0d138d75c": {
+      "dunedaq-externals.cetlib": {
+        "owner": "dunedaq-externals.cetlib",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "cetlib_lite.patch"
+      }
+    },
+    "c710e07d856c1f821396c56bc67f3d0b25e5586c5a3edd42d05e6c1bcc3b4b2c": {
+      "dunedaq-externals.fftw": {
+        "owner": "dunedaq-externals.fftw",
+        "level": 0,
+        "working_dir": ".",
+        "relative_path": "pfft-3.3.9.patch"
+      }
+    },
+    "8132c27659f992311dcf3d1500056e0f9400aa22f6824124e3607dbaa8dfe3c0": {
+      "dunedaq-externals.fftw": {
+        "owner": "dunedaq-externals.fftw",
+        "level": 0,
+        "working_dir": ".",
+        "relative_path": "pfft-3.3.5.patch"
+      }
+    },
+    "4c813199aa39c0d2b23259ee3c3a58c9c96a3c0d09fe3485a33f299b95e0d9e7": {
+      "dunedaq-externals.fftw": {
+        "owner": "dunedaq-externals.fftw",
+        "level": 0,
+        "working_dir": ".",
+        "relative_path": "pfft-3.3.4.patch"
+      }
+    },
+    "5382f2695960800c0c93cb01fabdf9f4efa478f4171163c516c9fe1d9288449e": {
+      "dunedaq-externals.fftw": {
+        "owner": "dunedaq-externals.fftw",
+        "level": 0,
+        "working_dir": ".",
+        "relative_path": "pgi-3.3.6-pl2.patch"
+      }
+    },
+    "116635693452a2ca3bdc3f87c20569b4bf9d7813ecfe9581cef6e362b0770c1e": {
+      "dunedaq-externals.fftw": {
+        "owner": "dunedaq-externals.fftw",
+        "level": 0,
+        "working_dir": ".",
+        "relative_path": "intel-configure.patch"
+      }
+    },
+    "7ec95b28370c56c730894d3384a501046225d5a8bd91b920b3e8fa58f9d9c1b8": {
+      "dunedaq-externals.folly": {
+        "owner": "dunedaq-externals.folly",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "find-gflags-shared.diff"
+      }
+    },
+    "06f897ca1e3798affffaa0939eba3225852a77b067101ddcc2ecfee5c31790bc": {
+      "dunedaq-externals.hep-concurrency": {
+        "owner": "dunedaq-externals.hep-concurrency",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "hep_concurrency.1.04.01.patch"
+      }
+    },
+    "cf51a61fcd62ae250f665bf894fac11686aaf0103d75aea2861de4170a7e55a0": {
+      "dunedaq-externals.hep-concurrency": {
+        "owner": "dunedaq-externals.hep-concurrency",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "hep_concurrency.1.07.06.patch"
+      }
+    },
+    "84200e200e56f90ce91f0bceb67494ebaf2a1f6c07d1c37d886701292b078d57": {
+      "dunedaq-externals.highfive": {
+        "owner": "dunedaq-externals.highfive",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "cmake_deps.patch"
+      }
+    },
+    "310b8aa57a8ea77b7ac74debb3bf928cbafdef5e7ca35beaac5d9c61c7edd239": {
+      "dunedaq-externals.libzmq": {
+        "owner": "dunedaq-externals.libzmq",
+        "level": 1,
+        "working_dir": ".",
+        "url": "https://github.com/zeromq/libzmq/commit/92b2c38a2c51a1942a380c7ee08147f7b1ca6845.patch?full_index=1"
+      }
+    },
+    "21b6eb155ffc45a58a96ca6dc5cac47db0a9125da6c4ae5d14932b818bf36ecd": {
+      "dunedaq-externals.pistache": {
+        "owner": "dunedaq-externals.pistache",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "pistache_gcc12.patch"
+      }
+    },
+    "e0e42d7537178f2bddc21538f1390849a42cf5a5250eba3fa52d4ba9658e033d": {
+      "dunedaq-externals.protobuf": {
+        "owner": "dunedaq-externals.protobuf",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "pkgconfig.patch"
+      }
+    },
+    "9dd4fe341e8517567bbf1e8e81cfd0c8328cce44e2b562e99708cb4b1c30f01b": {
+      "dunedaq-externals.protobuf": {
+        "owner": "dunedaq-externals.protobuf",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "intel-v1.patch"
+      }
+    },
+    "97703c122e3871edeb3cd17f794d9f3630fef28f3aeb41f369dc0c86487a453e": {
+      "dunedaq-externals.protobuf": {
+        "owner": "dunedaq-externals.protobuf",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "intel-v2.patch"
+      }
+    },
+    "fa1abf042eddc1b3b43875dc018c651c90cd1c0c5299975a818a1610bee54ab8": {
+      "dunedaq-externals.protobuf": {
+        "owner": "dunedaq-externals.protobuf",
+        "level": 1,
+        "working_dir": ".",
+        "url": "https://github.com/protocolbuffers/protobuf/pull/9936.patch?full_index=1"
+      }
+    },
+    "640816dfe077382bdb5345c8b5568c92e1ccb36274887e57241d826522ba5686": {
+      "dunedaq-externals.trace": {
+        "owner": "dunedaq-externals.trace",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "disable_cetmodules.diff"
+      }
+    },
+    "882deacf74407e1c83fb88ae8b2d16286751a49096682e441dc53175268ddcd9": {
+      "dunedaq-externals.trace": {
+        "owner": "dunedaq-externals.trace",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "install-exec.diff"
+      }
+    },
+    "bac65a9fe92314596b18257583ad60cf0a5eab4baa34e7740fc16edde447bd9f": {
+      "dunedaq-externals.trace": {
+        "owner": "dunedaq-externals.trace",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "install-scripts.diff"
+      }
+    },
+    "db1c1f1f18425323be68521203a58a2fdadd8579a17b46138f3b98bdb2dde608": {
+      "dunedaq-externals.trace": {
+        "owner": "dunedaq-externals.trace",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "install-scripts-317.diff"
+      }
+    },
+    "951e116e351e22219648d51da6d0cf5665fbe9153db9e3d443d65299ab8343be": {
+      "dunedaq-externals.trace": {
+        "owner": "dunedaq-externals.trace",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "install-scripts-3176.diff"
+      }
+    },
+    "cbce80ec0340931372d90486b3105f8aab038ddea53c482e6208690732ac8395": {
+      "dunedaq-externals.uhal": {
+        "owner": "dunedaq-externals.uhal",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "ipbus_2.patch"
+      }
+    },
+    "4759c83e94606f7e69668b1f457fe7c5ff5d98826b5c23a837e4718cd4bcab90": {
+      "dunedaq-externals.cmake": {
+        "owner": "dunedaq-externals.cmake",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "cmake-findprotobuf.patch"
+      }
+    },
+    "fa034cf16a742b63d13f016a1715ba2f12ff20c35ecaa288e04d3346d96f898a": {
+      "dunedaq-externals.cmake": {
+        "owner": "dunedaq-externals.cmake",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "cmake-revert-findmpi-link-flag-list.patch"
+      }
+    },
+    "93488edf3f89cef6f3c77e821007c022e88e9f1f566ae9bf824a87ecbac97ebb": {
+      "dunedaq-externals.cmake": {
+        "owner": "dunedaq-externals.cmake",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "cmake-macos-add-coreservices.patch"
+      }
+    },
+    "42d8b2163a2f37a745800ec13a96c08a3a20d5e67af51031e51f63313d0dedd1": {
+      "dunedaq-externals.cmake": {
+        "owner": "dunedaq-externals.cmake",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "fix-xlf-ninja-mr-4075.patch"
+      }
+    },
+    "7c14b1146c5cb61f81a6751e8ed990f7a08886dca99384b007bbeb1f488dfda4": {
+      "dunedaq-externals.cmake": {
+        "owner": "dunedaq-externals.cmake",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "intel-c-gnu11.patch"
+      }
+    },
+    "e51119dd387aa3eb2f21fee730d3aa8b5480301c5e2e3a33bd86f4f7d8903861": {
+      "dunedaq-externals.cmake": {
+        "owner": "dunedaq-externals.cmake",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "intel-cxx-bootstrap.patch"
+      }
+    },
+    "dd3a40d4d92f6b2158b87d6fb354c277947c776424aa03f6dc8096cf3135f5d0": {
+      "dunedaq-externals.cmake": {
+        "owner": "dunedaq-externals.cmake",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "nag-response-files.patch"
+      }
+    },
+    "1c540040c7e203dd8e27aa20345ecb07fe06570d56410a24a266ae570b1c4c39": {
+      "dunedaq-externals.cmake": {
+        "owner": "dunedaq-externals.cmake",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "ignore_crayxc_warnings.patch"
+      }
+    },
+    "db77b517269d8b8043910c71a74bb9b0ae0a3710c77d5069daf901d87b96a7cc": {
+      "dunedaq-externals.cmake": {
+        "owner": "dunedaq-externals.cmake",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "fujitsu_add_linker_option.patch"
+      }
+    },
+    "bf695e3febb222da2ed94b3beea600650e4318975da90e4a71d6f31a6d5d8c3d": {
+      "dunedaq-externals.cmake": {
+        "owner": "dunedaq-externals.cmake",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "pgi-cxx-ansi.patch"
+      }
+    },
+    "b48396c0e4f61756248156b6cebe9bc0d7a22228639b47b5aa77c9330588ce88": {
+      "dunedaq-externals.cmake": {
+        "owner": "dunedaq-externals.cmake",
+        "level": 1,
+        "working_dir": ".",
+        "relative_path": "5882-enable-cce-fortran-preprocessing.patch"
+      }
+    }
+  }
+}

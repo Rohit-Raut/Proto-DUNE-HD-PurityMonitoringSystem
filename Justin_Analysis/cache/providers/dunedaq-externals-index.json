@@ -1,0 +1,46 @@
+{
+  "provider_index": {
+    "providers": {
+      "fftw-api": [
+        [
+          {
+            "name": "fftw-api",
+            "versions": [
+              "2"
+            ],
+            "concrete": false
+          },
+          [
+            {
+              "name": "fftw",
+              "versions": [
+                "2.1.5"
+              ],
+              "namespace": "dunedaq-externals",
+              "concrete": false
+            }
+          ]
+        ],
+        [
+          {
+            "name": "fftw-api",
+            "versions": [
+              "3"
+            ],
+            "concrete": false
+          },
+          [
+            {
+              "name": "fftw",
+              "versions": [
+                "3:"
+              ],
+              "namespace": "dunedaq-externals",
+              "concrete": false
+            }
+          ]
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "tags": {
+    "build-tools": [
+      "cmake"
+    ],
+    "windows": [
+      "cmake"
+    ]
+  }
+}
